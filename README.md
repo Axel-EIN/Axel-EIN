@@ -6,7 +6,7 @@
 🎓 &nbsp;J'ai terminé ma formation Bac +2 - Développeur Web et Web Mobile chez Philiance et j'ai obtenus le diplôme en 2022. Je suis actuellement  inscris à une formation d'un mois sur Python avec certification CISCO.\
 🌱 &nbsp;Je cherche en ce moment même des entreprises pour intégrer le monde du travail en tant que développeur.\
 ✍️ &nbsp;En plus de mes compétences en Design et Lead Designer, j'ai pu réaliser des projets en PHP/Symfony et j'ai mis en pratique mes connaissances de Javascript et React dans mon stage de fin d'année.\
-📄 &nbsp;Faites un tour sur mon [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf) pour plus de détails.
+📄 &nbsp;Faites un tour sur mon [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf) ainsi que mon [portfolio](https://axelein.wixsite.com/portfolio) pour plus de détails.
 
 ### 🛠 &nbsp;Mes compétences techniques
 
