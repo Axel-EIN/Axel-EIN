@@ -1,12 +1,12 @@
-## 👋 &nbsp;Bonjour à tous, c'est Axel.
+## 👋 &nbsp;Bonjour c'est Axel.
 
 ### 👨🏻‍💻 &nbsp;A propos de moi
 
-💡 &nbsp;Passionné par l'informatique et le design d'interface, ancien UI/UX Designer avec une dizaine d'année d'expérience, je me suis reconvertis dans le développement récemment.\
-🎓 &nbsp;J'ai terminé ma formation Bac +2 - Développeur Web et Web Mobile chez Philiance et j'ai obtenus le diplôme en 2022. Je suis actuellement  inscris à une formation d'un mois sur Python avec certification CISCO.\
-🌱 &nbsp;Je cherche en ce moment même des entreprises pour intégrer le monde du travail en tant que développeur.\
-✍️ &nbsp;En plus de mes compétences en Design et Lead Designer, j'ai pu réaliser des projets en PHP/Symfony et j'ai mis en pratique mes connaissances de Javascript et React dans mon stage de fin d'année. Mon projet de fin d'année peut-être consulté [ici](https://exam.axl-design.me/) \
-📄 &nbsp;Faites un tour sur mon [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf) ainsi que mon [portfolio](https://axelein.wixsite.com/portfolio) pour plus de détails.
+💡 &nbsp; Je suis passionné par le développement informatique et le design d'interface. Je suis un UI & UX Designer avec dix ans d'expérience et développeur Web FullStack aveec deux ans d'expérience.\
+🎓 &nbsp; J'ai commencé le développement avec l'école Informatique EPTTECH en 2006 puis je me suis réorienté dans le Design où j'ai travaillé en tant que UI & UX Designer pendant 10ans. Je suis ensuite revenu dans développement et je me suis mis à jour en obtenant le diplôme de Développeur Web & Web Mobile chez Philiance en 2022 ( RNCP équivalent BAC+2 en Informatique). J'ai pu ensuite travailler un an et demi en tant que Développeur JavaScript FullStack. Je suis en ce moment de nouveau dans une formation de Concepteur Développeur d'Application chez SIELI de Mars à Décembre 2024 (RNCP équivalent BAC+4 en Informatique).\
+🌱 &nbsp; Je cherche une nouvelle entreprise pour travailler à l'issue de ma formation en tant que Développeur Web, en JavaScriptt React / NodeJS ou PHP / Symfony.\
+✍️ &nbsp; Mes projets personnels en cours sont AXL-JDR (https://jdr.axl-design.me/) et AXL-JDR-BATTLE-MANAGER (lien à venir). \
+📄 &nbsp; Vous pouvez télécharger mon CV ici : [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf). Pour les projets plus anciens, vous pouvez faire un tour sur mon Portfolio [portfolio](https://axelein.wixsite.com/portfolio).
 
 ### 🛠 &nbsp;Mes compétences techniques
 
@@ -16,11 +16,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
