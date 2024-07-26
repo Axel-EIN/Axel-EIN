@@ -8,7 +8,7 @@
 ✍️ &nbsp; Mes projets personnels en cours sont AXL-JDR (https://jdr.axl-design.me/) et AXL-JDR-BATTLE-MANAGER (lien à venir). \
 📄 &nbsp; Vous pouvez télécharger mon CV ici : [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf). Pour les projets plus anciens, vous pouvez faire un tour sur mon Portfolio [portfolio](https://axelein.wixsite.com/portfolio).
 
-### 🛠 &nbsp;Mes compétences techniques
+### 🛠 &nbsp;Compétences techniques
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -19,6 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=node.js)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
