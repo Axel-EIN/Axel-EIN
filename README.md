@@ -6,7 +6,7 @@
 🎓 &nbsp; J'ai commencé le développement avec l'école Informatique EPTTECH en 2006 puis je me suis réorienté dans le Design où j'ai travaillé en tant que UI & UX Designer pendant 10ans. Je suis ensuite revenu dans développement et je me suis mis à jour en obtenant le diplôme de Développeur Web & Web Mobile chez Philiance en 2022 ( RNCP équivalent BAC+2 en Informatique). J'ai pu ensuite travailler un an et demi en tant que Développeur JavaScript FullStack. Je suis en ce moment de nouveau dans une formation de Concepteur Développeur d'Application chez SIELI de Mars à Décembre 2024 (RNCP équivalent BAC+4 en Informatique).\
 🌱 &nbsp; Je cherche une nouvelle entreprise pour travailler à l'issue de ma formation en tant que Développeur Web, en JavaScriptt React / NodeJS ou PHP / Symfony.\
 ✍️ &nbsp; Mes projets personnels en cours sont AXL-JDR (https://jdr.axl-design.me/) et AXL-JDR-BATTLE-MANAGER (lien à venir). \
-📄 &nbsp; Vous pouvez télécharger mon CV ici : [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf). Pour les projets plus anciens, vous pouvez faire un tour sur mon Portfolio [portfolio](https://axelein.wixsite.com/portfolio).
+📄 &nbsp; Vous pouvez télécharger mon [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf). Pour les projets plus anciens, vous pouvez faire un tour sur mon Portfolio [portfolio](https://axelein.wixsite.com/portfolio).
 
 ### 🛠 &nbsp;Compétences techniques
 
