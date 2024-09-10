@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Bonjour c'est Axel.
 
-💡 &nbsp; Je suis un passionné de nouvelles technologies, de développement informatique et de design d'interface. J'ai été en poste en tant que UI/UX Designer et Développeur FullStack.\
+💡 &nbsp; Je suis un passionné de nouvelles technologies, de développement informatique et de design d'interface. J'ai été en poste en tant que UI/UX Designer et Développeur JavaScript FullStack.\
 🎓 &nbsp; Issue de formation EPITECH (bac+2 dev 2006), ISART-DIGITAL (bac+3 design 2008) et remis à jour avec PHILIANCE (DWWM bac+2 dev 2022) puis SIELI (CDA bac+4 dev 2024). Je termine en ce moment ce dernier parcours de formation et je suis en stage actuellement, et je cherche un poste pour Janvier en tant que Développeur Web Front, Back ou FullStack.\
 🌱 &nbsp; Je connais très bien les langages PHP (Symfony Twig) mais je suis plus orienté en ce moment sur JavaScript (React, Node, TypeScript).\
 ✍️ &nbsp; Mes projets personnels en cours sont AXLJDR (https://jdr.axl-design.me/) et AXLJDRBATTLE (lien à venir).\
