@@ -1,7 +1,5 @@
 ## 👋 &nbsp;Bonjour c'est Axel.
 
-### 👨🏻‍💻 &nbsp;A propos de moi
-
 💡 &nbsp; Je suis un passionné de nouvelles technologies, de développement informatique et de design d'interface. J'ai été en poste en tant que UI/UX Designer et Développeur FullStack.\
 🎓 &nbsp; Issue de formation EPITECH (bac+2 dev 2004-2006), ISART-DIGITAL (bac+3 design 2005-2008 puis remis à jour avec PHILIANCE (bac+2 dev 2022), SIELI (bac+4 dev 2024). Je termine en ce moment mon parcours de formation, en stage actuellement, et je cherche un poste par la suite en tant que Développeur Web Front, Back ou FullStack.\
 🌱 &nbsp; Je connais très bien les langages PHP (Symfony Twig) mais je suis plus orienté en ce moment sur JavaScript (React, Node, TypeScript).\
