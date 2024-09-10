@@ -2,17 +2,17 @@
 
 ### 👨🏻‍💻 &nbsp;A propos de moi
 
-💡 &nbsp; Je suis passionné par le développement informatique et le design d'interface. Je suis un UI & UX Designer avec dix ans d'expérience et développeur Web FullStack aveec deux ans d'expérience.\
-🎓 &nbsp; J'ai commencé le développement avec l'école Informatique EPTTECH en 2006 puis je me suis réorienté dans le Design où j'ai travaillé en tant que UI & UX Designer pendant 10ans. Je suis ensuite revenu dans développement et je me suis mis à jour en obtenant le diplôme de Développeur Web & Web Mobile chez Philiance en 2022 ( RNCP équivalent BAC+2 en Informatique). J'ai pu ensuite travailler un an et demi en tant que Développeur JavaScript FullStack. Je suis en ce moment de nouveau dans une formation de Concepteur Développeur d'Application chez SIELI de Mars à Décembre 2024 (RNCP équivalent BAC+4 en Informatique).\
-🌱 &nbsp; Je cherche une nouvelle entreprise pour travailler à l'issue de ma formation en tant que Développeur Web, en JavaScriptt React / NodeJS ou PHP / Symfony.\
-✍️ &nbsp; Mes projets personnels en cours sont AXL-JDR (https://jdr.axl-design.me/) et AXL-JDR-BATTLE-MANAGER (lien à venir). \
-📄 &nbsp; Vous pouvez télécharger mon [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf). Pour les projets plus anciens, vous pouvez faire un tour sur mon Portfolio [portfolio](https://axelein.wixsite.com/portfolio).
+💡 &nbsp; Je suis un passionné de nouvelles technologies, de développement informatique et de design d'interface. J'ai été en poste en tant que UI/UX Designer et Développeur FullStack.\
+🎓 &nbsp; Issue de formation EPITECH (bac+2 dev 2004-2006), ISART-DIGITAL (bac+3 design 2005-2008 puis remis à jour avec PHILIANCE (bac+2 dev 2022), SIELI (bac+4 dev 2024). Je termine en ce moment mon parcours de formation, en stage actuellement, et je cherche un poste par la suite en tant que Développeur Web Front, Back ou FullStack.\
+🌱 &nbsp; Je connais très bien les langages PHP (Symfony Twig) mais je suis plus orienté en ce moment sur JavaScript (React, Node, TypeScript).\
+✍️ &nbsp; Mes projets personnels en cours sont AXLJDR (https://jdr.axl-design.me/) et AXLJDRBATTLE (lien à venir).\
+📄 &nbsp; Vous pouvez télécharger mon [CV](https://axl-design.me/cv_oncu_axel_avr_2022.pdf).\
+📄 &nbsp; Pour des projets plus anciens, vous pouvez faire un tour sur mon Portfolio [portfolio](https://axelein.wixsite.com/portfolio).\
 
 ### 🛠 &nbsp;Compétences techniques
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
